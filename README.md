@@ -43,7 +43,7 @@ Proyek ini dibuat sebagai latihan pengembangan frontend modern menggunakan Vite 
 Dikembangkan dengan fokus pada kecepatan, struktur rapi, dan kemudahan kustomisasi.
 Status: Aktif (Development)
 Kontak: dedeeapr17@gmail.com
-GitHub: github.com/dee2dee/landing-page
+GitHub: [github.com/dee2dee/landing-page](https://github.com/dee2dee/landing-page)
 
 Lisensi
 Proyek ini dirilis untuk keperluan pembelajaran dan eksplorasi pribadi.
