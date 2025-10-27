@@ -1,29 +1,50 @@
-# my-portfolio
+# Landing Page — Modern Web Frontend
 
-This template should help get you started developing with Vue 3 in Vite.
+**Landing Page** ini adalah proyek frontend modern yang dibangun menggunakan **Vite** dan **JavaScript (ES6)**.  
+Tujuannya untuk membuat halaman promosi (marketing / product showcase) yang **cepat, ringan, dan responsif**, serta mudah di-deploy ke platform seperti **Vercel**, **Netlify**, atau **GitHub Pages**.
 
-## Recommended IDE Setup
+---
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Struktur Folder
 
-## Customize configuration
+landing-page/
+├── .vscode/       # Konfigurasi editor (optional)
+├── public/        # File statis (gambar, favicon, dll)
+├── src/           # Source code utama (komponen, style, script)
+├── index.html     # File HTML utama
+├── package.json   # Dependency dan script npm
+├── vite.config.js # Konfigurasi build untuk Vite
+└── README.md      # Dokumentasi proyek
 
-See [Vite Configuration Reference](https://vite.dev/config/).
 
-## Project Setup
+---
 
-```sh
-npm install
-```
+## Teknologi yang Digunakan
 
-### Compile and Hot-Reload for Development
+| Komponen                 | Teknologi                                           |
+|--------------------------|-----------------------------------------------------|
+| **Bundler / Dev Server** | [Vite](https://vitejs.dev/)                         |
+| **Bahasa Utama**         | JavaScript (ES6)                                    |
+| **Styling**              | CSS3 / Tailwind / Bootstrap *(sesuai implementasi)* |
+| **HTML Template**        | index.html                                          |
+| **Version Control**      | Git + GitHub                                        |
 
-```sh
-npm run dev
-```
+---
 
-### Compile and Minify for Production
+Fitur Utama
+-Fast Development dengan Hot Module Reload (HMR)
+-Responsive Design — tampilan optimal di desktop & mobile
+-Customizable UI — mudah diubah sesuai branding
+-SEO Ready — struktur HTML yang ringan dan teroptimasi
+-Modular Structure — pemisahan komponen agar mudah dikembangkan
 
-```sh
-npm run build
-```
+Tentang Developer
+Proyek ini dibuat sebagai latihan pengembangan frontend modern menggunakan Vite dan JavaScript.
+Dikembangkan dengan fokus pada kecepatan, struktur rapi, dan kemudahan kustomisasi.
+Status: Aktif (Development)
+Kontak: dedeeapr17@gmail.com
+GitHub: github.com/dee2dee/landing-page
+
+Lisensi
+Proyek ini dirilis untuk keperluan pembelajaran dan eksplorasi pribadi.
+Anda bebas memodifikasi atau menggunakan ulang dengan mencantumkan atribusi kepada pemilik asli repository.
