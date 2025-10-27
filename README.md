@@ -5,17 +5,17 @@ Tujuannya untuk membuat halaman promosi (marketing / product showcase) yang **ce
 
 ---
 
-## Struktur Folder
+## Struktur Folder  
 
-landing-page/
-├── .vscode/       # Konfigurasi editor (optional)
-├── public/        # File statis (gambar, favicon, dll)
-├── src/           # Source code utama (komponen, style, script)
-├── index.html     # File HTML utama
-├── package.json   # Dependency dan script npm
-├── vite.config.js # Konfigurasi build untuk Vite
-└── README.md      # Dokumentasi proyek
-
+landing-page/  
+├── .vscode/       # Konfigurasi editor (optional)  
+├── public/        # File statis (gambar, favicon, dll)  
+├── src/           # Source code utama (komponen, style, script)  
+├── index.html     # File HTML utama  
+├── package.json   # Dependency dan script npm  
+├── vite.config.js # Konfigurasi build untuk Vite  
+└── README.md      # Dokumentasi proyek  
+  
 
 ---
 
@@ -31,20 +31,20 @@ landing-page/
 
 ---
 
-Fitur Utama
--Fast Development dengan Hot Module Reload (HMR)
--Responsive Design — tampilan optimal di desktop & mobile
--Customizable UI — mudah diubah sesuai branding
--SEO Ready — struktur HTML yang ringan dan teroptimasi
--Modular Structure — pemisahan komponen agar mudah dikembangkan
-
-Tentang Developer
-Proyek ini dibuat sebagai latihan pengembangan frontend modern menggunakan Vite dan JavaScript.
-Dikembangkan dengan fokus pada kecepatan, struktur rapi, dan kemudahan kustomisasi.
-Status: Aktif (Development)
-Kontak: dedeeapr17@gmail.com
-GitHub: [github.com/dee2dee/landing-page](https://github.com/dee2dee/landing-page)
-
-Lisensi
-Proyek ini dirilis untuk keperluan pembelajaran dan eksplorasi pribadi.
-Anda bebas memodifikasi atau menggunakan ulang dengan mencantumkan atribusi kepada pemilik asli repository.
+**Fitur Utama**  
+-Fast Development dengan Hot Module Reload (HMR) 
+-Responsive Design — tampilan optimal di desktop & mobile  
+-Customizable UI — mudah diubah sesuai branding  
+-SEO Ready — struktur HTML yang ringan dan teroptimasi  
+-Modular Structure — pemisahan komponen agar mudah dikembangkan  
+  
+**Tentang Developer**  
+Proyek ini dibuat sebagai latihan pengembangan frontend modern menggunakan Vite dan JavaScript.  
+Dikembangkan dengan fokus pada kecepatan, struktur rapi, dan kemudahan kustomisasi.  
+Status: Aktif (Development)  
+Kontak: dedeeapr17@gmail.com  
+GitHub: [github.com/dee2dee/landing-page](https://github.com/dee2dee/landing-page)  
+  
+**Lisensi**  
+Proyek ini dirilis untuk keperluan pembelajaran dan eksplorasi pribadi.  
+Anda bebas memodifikasi atau menggunakan ulang dengan mencantumkan atribusi kepada pemilik asli repository.  
